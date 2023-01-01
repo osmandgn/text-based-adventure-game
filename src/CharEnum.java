@@ -3,8 +3,7 @@ public enum CharEnum {
     SAMURAI(1, 21, 5, 15),
     ARCHER(2,18,7, 20),
     PALADIN(3,24,8,25),
-    GIANT(4, 40, 12, 40),
-    ;
+    GIANT(4, 40, 12, 40);
 
 
     private int id;
